@@ -1,0 +1,6 @@
+# EGM Clinical Protocol Designer — Dependencies
+# Core system uses only Python standard library.
+# No external API keys required.
+
+# Testing
+pytest>=7.4.0
